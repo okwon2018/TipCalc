@@ -34,7 +34,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-I was new to the language, had to study a bit for the simple syntax
+I was new to the language, had to study a bit for the simple syntax. Creating stuffs like labels was hard since, I was not used to it.
 
 ## License
 
