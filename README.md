@@ -10,8 +10,8 @@ Time spent: **1.5** hours spent in total
 
 The following **required** functionality is complete:
 
-* [ √] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [ √] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -28,7 +28,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/KXEdzZe.gif)
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -51,3 +52,4 @@ I was new to the language, had to study a bit for the simple syntax. Creating st
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
